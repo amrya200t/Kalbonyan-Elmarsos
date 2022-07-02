@@ -12,11 +12,11 @@
 ## Projects
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
-- [Live Demo](https://omnifood.dev/)
+- [Live Demo](http://omnifood.amrezzat.com/)
 ---
 ## Code
-- [Code](Code)
+- [Code](https://drive.google.com/file/d/1u2xI6IWAfiIwD9Nanktw3yf80mIEquby/view?usp=sharing)
 ---
 [Course-Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3)<br>
 
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate](https://drive.google.com/file/d/1KZIOCvf8SxAeWfLhBfFctggygE56sYn9/view?usp=sharing)
