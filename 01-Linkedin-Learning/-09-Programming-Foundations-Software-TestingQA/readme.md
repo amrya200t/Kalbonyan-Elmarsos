@@ -19,4 +19,5 @@
 ---
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
-<br>[Preview Certificate]()
+<br>![Preview Certificate](https://user-images.githubusercontent.com/20686802/178009022-481e496f-512f-43c4-9b13-db20359baf3f.png)
+
