@@ -3,7 +3,7 @@
 ## Challenges
 
 - [x] [JavaScript Fundamentals – Part 1 ](./Challenges/JavaScript%20Fundamentals%20%E2%80%93%20Part%201/)
-- [ ] [JavaScript Fundamentals – Part 2](./Challenges/JavaScript%20Fundamentals%20%E2%80%93%20Part%202/)
+- [x] [JavaScript Fundamentals – Part 2](./Challenges/JavaScript%20Fundamentals%20%E2%80%93%20Part%202/)
 - [ ] [Developer Skills & Editor Setup ](./Challenges/Developer%20Skills%20%26%20Editor%20Setup/)
 - [ ] [JavaScript in the Browser: DOM and Events](./Challenges/JavaScript%20in%20the%20Browser%20DOM%20and%20Events/)
 - [ ] [Data Structures, Modern Operators and Strings.](./Challenges/Data%20Structures%2C%20Modern%20Operators%20and%20Strings/)
