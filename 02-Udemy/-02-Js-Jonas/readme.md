@@ -17,22 +17,22 @@
 ### Pig Game
 
 - [Project-code](./Projects/Pig-Game)
-- [Live Demo]()
+- [Live Demo](https://whoami-piggame.netlify.app/)
 
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
-- [Live Demo]()
+- [Live Demo](https://whoami-bankist-app.netlify.app/)
 
 ### Bankist Site
 
 - [Project-code](./Projects/Bankist-Site)
-- [Live Demo]()
+- [Live Demo](https://whoami-bankist-site.netlify.app/)
 
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
-- [Live Demo]()
+- [Live Demo](https://whoami-bankist-site.netlify.app/)
 
 ### Forkify
 
