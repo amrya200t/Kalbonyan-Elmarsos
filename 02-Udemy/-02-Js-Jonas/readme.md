@@ -32,7 +32,7 @@
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
-- [Live Demo](https://whoami-bankist-site.netlify.app/)
+- [Live Demo](https://whoami-mapty.netlify.app/)
 
 ### Forkify
 
