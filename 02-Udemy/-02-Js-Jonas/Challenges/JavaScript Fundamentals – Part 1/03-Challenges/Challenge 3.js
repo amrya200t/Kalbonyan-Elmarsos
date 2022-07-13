@@ -1,3 +1,4 @@
+/* CODING CHALLENGE #03 */
 const dolphinsAvg = (96 + 108 + 89) / 3;
 const koalasAvg = (88 + 91 + 110) / 3;
 if (dolphinsAvg > koalasAvg) {
