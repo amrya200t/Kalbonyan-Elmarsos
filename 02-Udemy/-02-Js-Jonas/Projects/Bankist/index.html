@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="shortcut icon" type="image/png" href="/icon.png" />
+    <link rel="shortcut icon" type="image/png" href="./icon.png" />
 
     <link
       href="https://fonts.googleapis.com/css?family=Poppins:400,500,600&display=swap"
@@ -24,15 +24,13 @@
           type="text"
           placeholder="user"
           class="login__input login__input--user"
-          autocomplete="username"
         />
         <!-- In practice, use type="password" -->
         <input
-          type="password"
+          type="text"
           placeholder="PIN"
           maxlength="4"
           class="login__input login__input--pin"
-          autocomplete="current-password"
         />
         <button class="login__btn">&rarr;</button>
       </form>
@@ -103,16 +101,12 @@
       <div class="operation operation--close">
         <h2>Close account</h2>
         <form class="form form--close">
+          <input type="text" class="form__input form__input--user" />
+          <!-- In practice, use type="password" -->
           <input
             type="text"
-            class="form__input form__input--user"
-            autocomplete="username"
-          />
-          <input
-            type="password"
             maxlength="6"
             class="form__input form__input--pin"
-            autocomplete="current-password"
           />
           <button class="form__btn form__btn--close">&rarr;</button>
           <label class="form__label">Confirm user</label>
