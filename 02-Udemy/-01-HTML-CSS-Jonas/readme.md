@@ -12,7 +12,7 @@
 ## Projects
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
-- [Live Demo](http://omnifood.amrezzat.com/)
+- [Live Demo](https://omnifood.amrezzat.com/)
 ---
 ## Code
 - [Code](https://drive.google.com/file/d/1u2xI6IWAfiIwD9Nanktw3yf80mIEquby/view?usp=sharing)
