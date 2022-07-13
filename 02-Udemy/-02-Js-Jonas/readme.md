@@ -37,7 +37,7 @@
 ### Forkify
 
 - [Project-code](./Projects/Forkify)
-- [Live Demo]()
+- [Live Demo](https://whoami-forkify.netlify.app/)
 
 ---
 
