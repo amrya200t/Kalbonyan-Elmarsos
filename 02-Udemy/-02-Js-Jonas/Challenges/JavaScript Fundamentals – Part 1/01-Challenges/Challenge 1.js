@@ -1,3 +1,4 @@
+/* CODING CHALLENGE #01 */
 const markMass1 = 78;
 const markHeight1 = 1.69;
 const johnMass1 = 92;
