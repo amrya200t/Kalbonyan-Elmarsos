@@ -1,1 +1,4 @@
-# The Complete JavaScript Course 2022: From Zero to Expert!
+# Forkify Project
+
+Recipe application with custom recipe uploads.
+You can bookmark your favorite recipes.
