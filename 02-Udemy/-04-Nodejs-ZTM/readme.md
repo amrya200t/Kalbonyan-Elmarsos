@@ -7,7 +7,7 @@
 - [Project-code](./Projects/Planet-Finder)
 ### NASA Mission Control
 - [Project-code](./Projects/NASA-Mission-Control)
-- [Live Demo]()
+- [Live Demo](http://35.180.41.2:8000/)
 ---
 ## Code
 [Code](Code)
