@@ -1,0 +1,14 @@
+{
+  "name": "@scratch-notes-app/services",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "aws-sdk": "^2.1213.0",
+    "stripe": "^10.8.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.103"
+  }
+}
