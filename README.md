@@ -62,9 +62,9 @@
 <!-- AWS -->
 <span id="AWS"></span>
 # Learn How to Deploy your web applications with Cloud Provider (AWS)
-![50%](https://progress-bar.dev/50/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 - [x]  `in progress` `16h` - 16 - [AWS Certified Cloud Practitioner (CLF-C01)](03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)/)
-- [ ]  `in progress` `42h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](03-aCloudGuru/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02))
+- [x]  `in progress` `42h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](03-aCloudGuru/AWS%20Certified%20Solutions%20Architect%20Associate%20(SAA-C02))
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-58h-blue">
 <br />
