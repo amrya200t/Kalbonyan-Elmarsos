@@ -16,3 +16,6 @@
 - The ideal student for this course is ready to quickly break into cloud computing. You don’t have hours to spend on training. We get you up to speed in half the time as other certification courses. The course will help you prepare for a position as a qualified AWS solutions architect.
 
 - At the end of this course, you’ll be able to confidently take the associate-level AWS Certified Solutions Architect exam!
+
+
+![image](https://user-images.githubusercontent.com/20686802/193112264-f056c7ad-2720-45df-9c6e-40f1bcf70022.png)
