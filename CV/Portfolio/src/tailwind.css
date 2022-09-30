@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.3rem rgba(251, 157, 38, 0.5);
+  }
+  html {
+    font-family: "Montserrat", sans-serif;
+    /* Only works if there is nothing absolutely positioned in relation to body */
+    overflow-x: hidden;
+
+    /*** NOT WORKING ON Internet Explorer ***/
+    /*** NOT WORKING ON SAFARI < 15.4, Added on 03/2022 ***/
+    scroll-behavior: smooth;
+
+    /* Custom scrollbar for FireFox */
+    scrollbar-width: thin;
+    scrollbar-color: rgb(251, 157, 38) rgb(15, 23, 42);
+  }
+  textarea {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(251, 157, 38) rgb(15, 23, 42);
+  }
+  /* Custom scrollbar for Major browsers */
+  html::-webkit-scrollbar,
+  textarea::-webkit-scrollbar {
+    width: 8px;
+  }
+  html::-webkit-scrollbar-thumb,
+  textarea::-webkit-scrollbar-thumb {
+    background-color: rgb(251, 157, 38);
+    border-bottom-right-radius: 0.375rem;
+    border-bottom-left-radius: 0.375rem;
+  }
+  html::-webkit-scrollbar-thumb:hover,
+  textarea::-webkit-scrollbar-thumb:hover {
+    background-color: rgb(251, 107, 0);
+  }
+  html::-webkit-scrollbar-track,
+  textarea::-webkit-scrollbar-track {
+    background-color: rgb(15, 23, 42);
+  }
+
+  body {
+    background-color: rgb(15, 23, 42);
+    overflow-x: hidden;
+  }
+}
